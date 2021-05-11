@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  public class cachorro{
   private String raca; // padrão null
   private String nome; // padrão null
@@ -17,6 +18,15 @@
    public void setnome (String novonome){
      if 
    }
+=======
+class cachorro{
+ String raca;
+ String nome;
+  int comprimentodopelo;
+  int idade;
+  int peso;
+
+>>>>>>> origin/main
   void latir(){
     System.out.println("o cachorro" + nome + "esta latindo");
   }
