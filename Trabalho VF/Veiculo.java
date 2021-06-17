@@ -4,7 +4,9 @@ public abstract class Veiculo {
 
       private String cor;
       private String Marca;
-      private Array Tanque; 
+      private Array Tanque;
+      private Motor motor; 
+      
       private enum direction{
         Direita
         Esquerda
